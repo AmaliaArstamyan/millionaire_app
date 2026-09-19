@@ -1,2 +1,0 @@
-# millionaire_app
-jj
